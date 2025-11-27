@@ -13,6 +13,8 @@ O projeto utiliza os seguintes serviços AWS:
 - **Amazon Polly**: Síntese de voz (text-to-speech)
 - **AWS Lambda**: Execução serverless (gerenciado pelo Chalice)
 
+
+![Texto Alternativo](https://github.com/renersilv/nuvens-trabalhoIV/blob/main/architecture_diagram.png)
 ## Estrutura do Projeto
 
 ```
@@ -245,3 +247,4 @@ Verifique:
 ## Licença
 
 Este projeto é para fins educacionais.
+
